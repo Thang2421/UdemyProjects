@@ -5,10 +5,15 @@ I completed 6 major projects built from scratch using JavaScript, with HTML and 
 Projects:
 
 I. forkify-Cookingrecipes-API (https://forkify-cooking-api-ducthang.netlify.app/)
+
 II. Mapty-Geolocation-API (https://mapty-geolocation-api-ducthang.netlify.app/)
+
 III. App-Banking (https://banking-app-v2-ducthang.netlify.app/)
+
 IV. Bankist-Banking (https://banking-bankist-ducthang.netlify.app/)
+
 V. Game-GuessMyNumber (https://guess-my-number-ducthang.netlify.app/)
+
 VI. Game-TwoPlayersDice (https://two-players-dice-ducthang.netlify.app/)
 
 FEATURED PROJECT:
