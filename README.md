@@ -1,5 +1,3 @@
-During this course, I gained strong knowledge of JavaScript, starting from fundamentals (OOP, logical thinking, modern syntax, and functions) to more advanced topics such as async/await, Fetch API, and MVC architecture.
-
 I completed 6 major projects built from scratch using JavaScript, with HTML and CSS structures provided by Jonas Schmedtmann. (You can use the provided URLs to quickly preview each project online.)
 
 Projects:
