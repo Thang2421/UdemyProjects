@@ -3,6 +3,7 @@ During this course, I gained strong knowledge of JavaScript, starting from funda
 I completed 6 major projects built from scratch using JavaScript, with HTML and CSS structures provided by Jonas Schmedtmann. (You can use the provided URLs to quickly preview each project online.)
 
 Projects:
+
 I. forkify-Cookingrecipes-API (https://forkify-cooking-api-ducthang.netlify.app/)
 II. Mapty-Geolocation-API (https://mapty-geolocation-api-ducthang.netlify.app/)
 III. App-Banking (https://banking-app-v2-ducthang.netlify.app/)
@@ -11,6 +12,7 @@ V. Game-GuessMyNumber (https://guess-my-number-ducthang.netlify.app/)
 VI. Game-TwoPlayersDice (https://two-players-dice-ducthang.netlify.app/)
 
 FEATURED PROJECT:
+
 I. ** forkify--Cookingrecipes-API **
 
 Before running the project, make sure you have Node.js and npm installed. Then install dependencies from package.json and run:
@@ -25,6 +27,7 @@ This application allows users to search for cooking recipes using a query. The a
 - Click “Directions” to view full cooking instructions
 
 OTHER PROJECTS:
+
 II. ** Mapty-Geolocation **
 
 Before running the project, please make sure the user wifi router allows to get your current locaiton (GPS Coordinates, latitude and longitude ) and allow the browser to get your live-location.
